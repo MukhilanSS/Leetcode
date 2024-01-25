@@ -8,9 +8,8 @@ class Solution {
             List<Integer> a=ans.get(i-1);
             List<Integer> b=new ArrayList<>();
             b.add(1);
-            for(int j=0;j<a.size()-1;j++){
+            for(int j=0;j<a.size()-1;j++)
                 b.add(a.get(j)+a.get(j+1));
-            }
             b.add(1);
             ans.add(b);
         }
