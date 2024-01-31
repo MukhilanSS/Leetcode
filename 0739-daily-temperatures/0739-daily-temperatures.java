@@ -6,8 +6,8 @@ class Solution {
         for(int i=1;i<temp.length;i++){
             while(!st.isEmpty() && temp[st.peek()]<temp[i])
             {
-                ans[st.peek()]=i-st.peek();
-                st.pop();
+                int index = st.pop();
+                ans[index] = i - index;
             }
             st.push(i);
         }
