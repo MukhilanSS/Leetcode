@@ -1,22 +1,20 @@
 class Solution {
     public List<Integer> sequentialDigits(int low, int high) {
         List<Integer>ans=new ArrayList<>();
-        int a,b,i=1;
-        while(i<=9)
+        for(int i=1;i<=9;i++)
         {
-            a=i;
-            b=i+1;
-            while(a<=high && b<=9)
+            int num=i;
+            for(int j=i+1;j<=9;j++)
             {
-            a=a*10+b;
-            if(a>=low && a<=high)
-            ans.add(a);
-            b++;
+                num=num*10+j;
+                if(num>=low && num<=high)
+                ans.add(num);
             }
-            i++;
         }
         Collections.sort(ans);
         return ans;
+    }
+}
         // int i=1;
         // int b=10;
         // while(i<=high)
@@ -40,5 +38,3 @@ class Solution {
         //     if(a>high && a%100!=0)
         //     ans.add(a);
         // }
-    }
-}
