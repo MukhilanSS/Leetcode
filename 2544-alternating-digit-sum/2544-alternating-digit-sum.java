@@ -27,7 +27,7 @@
 class Solution {
     public int alternateDigitSum(int n) {
         String num=String.valueOf(n);
-        System.out.print(num);
+        // System.out.print(num);
         char ch[]= num.toCharArray();
         int m=ch.length;
         int sum=0;
