@@ -1,10 +1,18 @@
 class Solution {
+    public int fibo(int n,Map<Integer,Integer>memo)
+    {
+        if(n<=1)
+        return n;
+        if(memo.containsKey(n))
+        return memo.get(n);
+        int result;
+        result=fibo(n-1,memo)+fibo(n-2,memo);
+        memo.put(n,result);
+        return result;
+    }
     public int fib(int n) {
-        if(n==0) return 0;
-        int a[]=new int[n+1];
-        a[1]=1;
-        for(int i=2;i<=n;i++)
-        a[i]=a[i-1]+a[i-2];
-        return a[n];
+        Map<Integer,Integer>map=new HashMap<>();
+        int result=fibo(n,map);
+        return result;
     }
 }
