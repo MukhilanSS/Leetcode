@@ -7,7 +7,7 @@ class Solution {
         int count=heap.size();
         while(!heap.isEmpty() && k>0)
         {
-            int cur=heap.remove();
+            int cur=heap.poll();
             k-=cur;
             if(k>=0){
             count--;
