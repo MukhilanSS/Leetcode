@@ -20,11 +20,8 @@ class Solution {
                 score--;
                 j--;
             }
-            else{
-                break;
-                // i++;
-                // j--;
-            }
+            else
+            break;
         }
         return max;
     }
