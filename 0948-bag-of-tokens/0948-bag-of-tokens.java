@@ -21,8 +21,9 @@ class Solution {
                 j--;
             }
             else{
-                i++;
-                j--;
+                break;
+                // i++;
+                // j--;
             }
         }
         return max;
