@@ -7,8 +7,6 @@ class Solution {
             ans[i]=x;
             x*=nums[i];
         }
-        for(int i:ans)
-            System.out.print(i);
         x=1;
         for(int i=nums.length-1;i>=0;i--)
         {
