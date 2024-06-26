@@ -1,18 +1,31 @@
 class Solution {
     void sort(int mat[][],int row,int col,int m,int n){
-        List<Integer> l=new ArrayList<>();
+        // List<Integer> l=new ArrayList<>();
+        int l[]=new int[101];
         int r=row,c=col;
         while(r<m&& c<n)
         {
-            l.add(mat[r++][c++]);
+            // l.add(mat[r++][c++]);
+            l[mat[r++][c++]]++;
         }
-        Collections.sort(l);
+        // Collections.sort(l);
         r=row;c=col;
-        int k=0;
-        while(r<m && c<n)
+        // int k=0;
+        for(int i=1;i<101;i++)
         {
-            mat[r++][c++]=l.get(k++);
+            if(l[i]>0)
+            {
+                int count=l[i];
+                while(count-->0)
+                {
+                    mat[r++][c++]=i;
+                }
+            }
         }
+        // while(r<m && c<n)
+        // {
+        //     mat[r++][c++]=l.get(k++);
+        // }
     }
     public int[][] diagonalSort(int[][] mat) {
        
