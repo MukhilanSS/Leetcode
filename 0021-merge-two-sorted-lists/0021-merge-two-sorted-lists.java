@@ -17,26 +17,15 @@ class Solution {
             {
                 tail.next=list1;
                 list1=list1.next;
-                tail=tail.next;
             }
             else
             {
                 tail.next=list2;
                 list2=list2.next;
-                tail=tail.next;
             }
-        }
-        while(list1!=null)
-        {
-            tail.next=list1;
-            list1=list1.next;
             tail=tail.next;
         }
-        while(list2!=null){
-            tail.next=list2;
-            list2=list2.next;
-            tail=tail.next;
-        }
+        tail.next= (list1!=null) ? list1:list2;
         return dummyhead.next;
     }
 }
