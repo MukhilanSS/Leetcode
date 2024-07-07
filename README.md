@@ -25,9 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MukhilanSS/Leetcode/tree/master/0202-happy-number) |
+| [1642-water-bottles](https://github.com/MukhilanSS/Leetcode/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MukhilanSS/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/MukhilanSS/Leetcode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/MukhilanSS/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
