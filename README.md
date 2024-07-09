@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MukhilanSS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MukhilanSS/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MukhilanSS/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MukhilanSS/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MukhilanSS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/MukhilanSS/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MukhilanSS/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
