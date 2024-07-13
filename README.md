@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MukhilanSS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/MukhilanSS/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1791-richest-customer-wealth](https://github.com/MukhilanSS/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MukhilanSS/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/MukhilanSS/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
