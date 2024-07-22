@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MukhilanSS/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/MukhilanSS/Leetcode/tree/master/0202-happy-number) |
 | [1297-maximum-number-of-balloons](https://github.com/MukhilanSS/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/MukhilanSS/Leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/MukhilanSS/Leetcode/tree/master/0455-assign-cookies) |
+| [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Merge Sort
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MukhilanSS/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/MukhilanSS/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukhilanSS/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/MukhilanSS/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1297-maximum-number-of-balloons](https://github.com/MukhilanSS/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
