@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/MukhilanSS/Leetcode/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MukhilanSS/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/MukhilanSS/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1791-richest-customer-wealth](https://github.com/MukhilanSS/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Prefix Sum
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MukhilanSS/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/MukhilanSS/Leetcode/tree/master/0055-jump-game) |
+| [1511-count-number-of-teams](https://github.com/MukhilanSS/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Stack
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MukhilanSS/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/MukhilanSS/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/MukhilanSS/Leetcode/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
