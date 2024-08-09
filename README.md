@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MukhilanSS/Leetcode/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/MukhilanSS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MukhilanSS/Leetcode/tree/master/0455-assign-cookies) |
 | [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Merge Sort
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MukhilanSS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MukhilanSS/Leetcode/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/MukhilanSS/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0435-non-overlapping-intervals](https://github.com/MukhilanSS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MukhilanSS/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MukhilanSS/Leetcode/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MukhilanSS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MukhilanSS/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/MukhilanSS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MukhilanSS/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MukhilanSS/Leetcode/tree/master/0890-lemonade-change) |
 ## Counting
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MukhilanSS/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/MukhilanSS/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/MukhilanSS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1511-count-number-of-teams](https://github.com/MukhilanSS/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Stack
 |  |
