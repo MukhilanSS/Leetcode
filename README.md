@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MukhilanSS/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MukhilanSS/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/MukhilanSS/Leetcode/tree/master/0202-happy-number) |
+| [0443-string-compression](https://github.com/MukhilanSS/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/MukhilanSS/Leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/MukhilanSS/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Simulation
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukhilanSS/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/MukhilanSS/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0443-string-compression](https://github.com/MukhilanSS/Leetcode/tree/master/0443-string-compression) |
 | [1297-maximum-number-of-balloons](https://github.com/MukhilanSS/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Sliding Window
