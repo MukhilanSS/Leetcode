@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MukhilanSS/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MukhilanSS/Leetcode/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/MukhilanSS/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/MukhilanSS/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/MukhilanSS/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MukhilanSS/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/MukhilanSS/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/MukhilanSS/Leetcode/tree/master/0055-jump-game) |
+| [0152-maximum-product-subarray](https://github.com/MukhilanSS/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/MukhilanSS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1511-count-number-of-teams](https://github.com/MukhilanSS/Leetcode/tree/master/1511-count-number-of-teams) |
 ## Stack
