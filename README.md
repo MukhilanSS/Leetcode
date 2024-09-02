@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/MukhilanSS/Leetcode/tree/master/1642-water-bottles) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukhilanSS/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/MukhilanSS/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/MukhilanSS/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1791-richest-customer-wealth](https://github.com/MukhilanSS/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukhilanSS/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MukhilanSS/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukhilanSS/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukhilanSS/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
 | ------- |
