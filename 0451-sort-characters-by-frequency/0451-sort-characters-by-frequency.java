@@ -1,19 +1,17 @@
 class Solution {
-public String frequencySort(String s) {
-int b[]=new int[128];
-    for (char c : s.toCharArray())
-        b[c]++;
-    StringBuilder s1=new StringBuilder();
-    for(int i=s.length();i>=0;i--)
-    {
-        for(char ch=48;ch<128;ch++)
+    public String frequencySort(String s) {
+        Map<Character,Integer>map=new HashMap<>();
+        for(char c:s.toCharArray())
+            map.put(c,map.getOrDefault(c,0)+1);
+        List<Character> list=new ArrayList<>(map.keySet());
+        list.sort((a,b)->map.get(b)-map.get(a));
+        StringBuilder ans=new StringBuilder();
+        for(char c:list)
         {
-            if (b[ch]==i) {
-            for (int j=0;j<i;j++)
-            s1.append(ch);
-            }
+           for(int i=0;i<map.get(c);i++)
+                ans.append(c);
         }
+        return ans.toString();
+
     }
-    return s1.toString();
-}
 }
