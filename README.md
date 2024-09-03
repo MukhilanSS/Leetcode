@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/MukhilanSS/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MukhilanSS/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MukhilanSS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MukhilanSS/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/MukhilanSS/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MukhilanSS/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MukhilanSS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MukhilanSS/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -183,9 +185,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/MukhilanSS/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MukhilanSS/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MukhilanSS/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MukhilanSS/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MukhilanSS/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MukhilanSS/Leetcode/tree/master/0101-symmetric-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MukhilanSS/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/MukhilanSS/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
