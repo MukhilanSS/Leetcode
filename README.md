@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MukhilanSS/Leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/MukhilanSS/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MukhilanSS/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MukhilanSS/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/MukhilanSS/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/MukhilanSS/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MukhilanSS/Leetcode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/MukhilanSS/Leetcode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/MukhilanSS/Leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MukhilanSS/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0908-middle-of-the-linked-list](https://github.com/MukhilanSS/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Simulation
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MukhilanSS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/MukhilanSS/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/MukhilanSS/Leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MukhilanSS/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2502-sort-the-people](https://github.com/MukhilanSS/Leetcode/tree/master/2502-sort-the-people) |
 ## Merge Sort
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/MukhilanSS/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/MukhilanSS/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MukhilanSS/Leetcode/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MukhilanSS/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/MukhilanSS/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/MukhilanSS/Leetcode/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MukhilanSS/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukhilanSS/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukhilanSS/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
